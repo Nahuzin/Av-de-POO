@@ -3,5 +3,5 @@
 >>> Integrantes do projeto:
 
 - Huan Henrique Portugal Carvalho
-- Gustavo Andrade
+- Gustavo de Andrade Pacheco
 - Samuel Teixeira dos Santos
