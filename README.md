@@ -4,4 +4,4 @@
 
 - Huan Henrique Portugal Carvalho
 - Gustavo Andrade
-- Samuel Texeira
+- Samuel Teixeira dos Santos
