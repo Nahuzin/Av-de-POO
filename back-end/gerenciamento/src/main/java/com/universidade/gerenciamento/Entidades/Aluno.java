@@ -1,5 +1,6 @@
 package com.universidade.gerenciamento.Entidades;
-import Configurações.Endereco;
+import com.universidade.gerenciamento.Configuracao.Endereco;
+
 import jakarta.persistence.CascadeType;
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

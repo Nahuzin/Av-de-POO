@@ -1,4 +1,4 @@
-package Configurações;
+package com.universidade.gerenciamento.Configuracao;
 
 import com.universidade.gerenciamento.Entidades.Aluno;
 import com.universidade.gerenciamento.Entidades.Professor;
